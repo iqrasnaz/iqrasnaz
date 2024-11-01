@@ -11,3 +11,11 @@ This portfolio serves as a space to showcase my skills, share projects, and trac
 * Languages: SQL, Python, R
 * Databases: MySQL, SQLite
 * Visualizations: Tableau, Microsoft Excel, Python (Seaborn, Matplotlib)
+
+### Data Analysis Projects
+
+| Project Link | Tools | About |
+| --- | --- | --- |
+| NYC Airbnb Analysis | Excel, Python, MySQL, Tableau | --- |
+| Supermarket Sales Analysis | Excel, MySQL, Tableau | --- |
+| Customer Segmentation & Clustering | Excel, Python, Tableau | --- |
