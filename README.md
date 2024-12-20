@@ -17,8 +17,8 @@ This portfolio serves as a space to showcase my skills, share projects, and trac
 | Project Link | Tools | About |
 | --- | --- | --- |
 | [Airbnb NYC Analysis](https://github.com/iqrasnaz/Airbnb-NYC) | Excel, Python, SQL, Tableau | This project aims to analyze Airbnb booking data to identify trends, optimize pricing strategies, and project revenue for hosts. I would like to uncover different aspects of the data such as host performance analysis, property location and pricing, review ratings, amenities and listings, availability and booking. |
-| [Supermarket Sales Analysis](https://github.com/iqrasnaz/Supermarket-Sales) | Excel, SQL, Tableau | The purpose of this project is to analyze supermarket sales data to uncover trends, identify top-performing products and categories, and pinpoint peak sales periods. SQL queries are utilized to filter, sort, and summarize the data. |
 | [Amazon Customer Segmentation](https://github.com/iqrasnaz/Amazon-Customer-Segmentation) | SQL, Python, Tableau | The primary goal of this project is to segment customers into distinct groups based on their demographics and purchasing patterns. These insights aim to help Amazon implement targeted marketing strategies, personalize offerings, and increase customer retention. |
+| [Supermarket Sales Analysis](https://github.com/iqrasnaz/Supermarket-Sales) | Excel, SQL, Tableau | The purpose of this project is to analyze supermarket sales data to uncover trends, identify top-performing products and categories, and pinpoint peak sales periods. SQL queries are utilized to filter, sort, and summarize the data. |
 
 ## Contacts
 
