@@ -8,7 +8,7 @@ This portfolio serves as a space to showcase my skills, share projects, and trac
 
 ## Tools
 
-* Languages: SQL, Python
+* Languages: SQL, Python, R
 * Databases: MySQL, SQLite
 * Visualizations: Tableau, Microsoft Excel, Python (Seaborn, Matplotlib)
 
@@ -19,6 +19,7 @@ This portfolio serves as a space to showcase my skills, share projects, and trac
 | [Airbnb NYC Analysis](https://github.com/iqrasnaz/Airbnb-NYC) | Excel, Python, SQL, Tableau | This project aims to analyze Airbnb booking data to identify trends, optimize pricing strategies, and project revenue for hosts. I want to uncover different aspects of the data such as host performance analysis, property location and pricing, review ratings, amenities and listings, availability, and booking. |
 | [Amazon Customer Segmentation](https://github.com/iqrasnaz/Amazon-Customer-Segmentation) | SQL, Python, Tableau | The primary goal of this project is to segment customers into distinct groups based on their demographics and purchasing patterns. These insights aim to help Amazon implement targeted marketing strategies, personalize offerings, and increase customer retention. |
 | [Supermarket Sales Analysis](https://github.com/iqrasnaz/Supermarket-Sales) | Excel, SQL, Tableau | The purpose of this project is to analyze supermarket sales data to uncover trends, identify top-performing products and categories, and pinpoint peak sales periods. SQL queries are utilized to filter, sort, and summarize the data. |
+| [U.S Health Insurance Data](https://github.com/iqrasnaz/Health-Insurance-Data) | R | The goal of this project is to analyze how demographic and lifestyle factors such as age, BMI, and smoking status influence U.S. medical insurance charges using multiple linear regression in R. We aimed to build a reliable predictive model while uncovering insights that could guide healthcare providers and insurance companies in pricing and policy decisions. |
 | [Neuroimaging Data Processing & Visualization Web Application] | Python, Flask, React, Google Cloud Platform | The purpose of the project is to develop movement analysis graphs in Python to track excessive head motion during functional MRI (fMRI) scans. Build a React-based frontend for researchers to access fMRI data outputs in order to reduce manual preprocessing efforts. |
 
 ## Contacts
